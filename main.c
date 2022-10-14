@@ -79,5 +79,5 @@ int main(){
       }
     
     }while(jogador != -1);
-  printf("\nPlacar:\n Você: %d\n Computador:%d", i, c);
+  printf("\n\nPlacar:\n Você: %d\n Computador:%d", i, c);
 }
