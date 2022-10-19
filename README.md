@@ -1,4 +1,4 @@
-<h1>Trabalho 2 de laboratório</h1>
+<h1>Trabalho 2 de laboratório (pedra, papel, tesoura)</h1>
 
 <div id="comojogar">
 <h2>Como ou onde jogar</h2>
