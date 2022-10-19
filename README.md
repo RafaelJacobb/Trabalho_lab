@@ -8,10 +8,10 @@
 <a href="https://replit.com"> Link para acesso ao Replit</a>
         
 <p>Ao acessar a página e criar seu login, basta criar uma pasta dentro do próprio site e colocar o código na parte "main.c" como indicado na figura abaixo.</p>
-<img src="./images/images2/main.png" alt="inicio-Replit">
+<img src="https://user-images.githubusercontent.com/105748926/196815892-17476866-e97b-490d-ba4e-664d696ca52c.png" alt="inicio-Replit">
 
 <p>Após colocar o código, precisa apenas apertar no botão "run" como indicado na figura abaixo</p>
-<img src="./images/images2/run.png" alt="teste-jogo">
+<img src="https://user-images.githubusercontent.com/105748926/196815896-73aeebbd-b58d-4bc2-be9a-51e459bb7674.png" alt="teste-jogo">
 
 <h3>Siga as regras do jogo e divirta-se!</h3>
 </div>
@@ -25,15 +25,15 @@
 <div id="demonstracao">
 
 <h3>Ao dar inicio no jogo, sera mostrada as opções citadas a cima para que o jogador faça sua escolha</h3>
-<img src="./images/images2/trab2-1.png" alt="primeira-parte-do-jogo">
+<img src="https://user-images.githubusercontent.com/105748926/196815897-d06628ab-302d-4ad8-b40f-4b1717b1d2a0.png" alt="primeira-parte-do-jogo">
 
 <h3>Caso o jogador escolha uma opção que não exista, o jogo pedirá para que ele escolha novamente.</h3>
-<img src="./images/images2/trab2-4.png" alt="">
+<img src="(https://user-images.githubusercontent.com/105748926/196815899-9f596ba8-d1a6-4f9d-b181-5dcb08eec0f3.png" alt="">
         
 <h3>Se o jogador escolher uma opção válida o jogo continuará até que o mesmo escreve "-1".</h3>
-<img src="./images/images2/trab2-2.png" alt="">
+<img src="https://user-images.githubusercontent.com/105748926/196815901-1b2527de-931c-45ef-bd36-113ebf1c56df.png" alt="">
         
 <h3>Ao escrever "-1" o jogo se encerra-a mostrando assim o placar final(pontos do jogador e pontos do computador).</h3>
-<img src="./images/images2/trab2-3.png" alt="">
+<img src="https://user-images.githubusercontent.com/105748926/196815903-1df8af61-cede-476a-a0a6-f87bbfec9705.png" alt="">
 
 </div>
