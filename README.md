@@ -28,12 +28,12 @@
 <img src="https://user-images.githubusercontent.com/105748926/196815897-d06628ab-302d-4ad8-b40f-4b1717b1d2a0.png" alt="primeira-parte-do-jogo">
 
 <h3>Caso o jogador escolha uma opção que não exista, o jogo pedirá para que ele escolha novamente.</h3>
-<img src="(https://user-images.githubusercontent.com/105748926/196815899-9f596ba8-d1a6-4f9d-b181-5dcb08eec0f3.png" alt="">
-        
+<img src="https://user-images.githubusercontent.com/105748926/196815903-1df8af61-cede-476a-a0a6-f87bbfec9705.png" alt="">
+
 <h3>Se o jogador escolher uma opção válida o jogo continuará até que o mesmo escreve "-1".</h3>
-<img src="https://user-images.githubusercontent.com/105748926/196815901-1b2527de-931c-45ef-bd36-113ebf1c56df.png" alt="">
+<img src="https://user-images.githubusercontent.com/105748926/196815899-9f596ba8-d1a6-4f9d-b181-5dcb08eec0f3.png" alt="">
         
 <h3>Ao escrever "-1" o jogo se encerra-a mostrando assim o placar final(pontos do jogador e pontos do computador).</h3>
-<img src="https://user-images.githubusercontent.com/105748926/196815903-1df8af61-cede-476a-a0a6-f87bbfec9705.png" alt="">
+<img src="https://user-images.githubusercontent.com/105748926/196815901-1b2527de-931c-45ef-bd36-113ebf1c56df.png" alt="">
 
 </div>
